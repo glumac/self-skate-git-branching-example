@@ -1,0 +1,107 @@
+.content {
+  width: 720px;
+  padding: 54px;
+  border-left: 6px solid #dd0000;
+  margin: 0 auto;
+  font-family: 'lato';
+  line-height: 1.5;
+}
+
+.header-nav-link {
+  color: #dddddd;
+  margin-right: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.header-h2 {
+  font-display: 'Lato';
+  color: #444444;
+  font-weight: 300;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: #dd0000;
+  font-size: 50px;
+  font-weight: 200;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.article_outline {
+  border-bottom: 1px solid lightgray;
+  padding-top: 50px;
+}
+
+.article-h2 {
+  color: #cccccc;
+  font-weight: 100;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+
+.article_title {
+  color: black;
+  font-weight: 200;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+
+img {
+  width: 100%;
+}
+
+.article_drop {
+  text-align: right;
+  color: red;
+}
+footer {
+  text-align: center;
+  margin-top: 40px;
+}
+.footer-nav-link {
+  color: #aa0000;
+}
+
+.footer-p {
+  color: lightgray;
+  text-align: center;
+}
+
+/* Content:
+720px wide
+54px of padding
+solid, left, 6px, border, #dd0000
+
+High-level text properties:
+#444444
+"Lato" font
+1.5 line-height
+
+"Self-piloting Skateboards":
+black
+
+Links:
+#DD0000
+
+Links hover:
+#aa0000
+
+Navigation links:
+#dddddd
+
+Navigation links hover:
+black
+
+Date: 
+#cccccc
+
+Article Title
+black
+
+Copyright
+#bbbbbb */
+ {
+}
